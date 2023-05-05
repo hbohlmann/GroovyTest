@@ -1,0 +1,5 @@
+class Basic {
+	void aMethod() {
+		
+	}
+}
